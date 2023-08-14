@@ -1,0 +1,8 @@
+1. id: PR1;
+2. summary: код ошибки url 404;
+3. project: onlineshop.com;
+4. severity: blocker;
+5. priority: ASAP;
+6. status: open;
+7.environ[D[D[D[D[D[D[D environment: iPhone, iOS V 14.7.1
+8. autor: Y.Karashaeva
